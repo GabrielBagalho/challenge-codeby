@@ -1,6 +1,7 @@
 {
-  "name": "escalator",
+  "name": "challange-codeby",
   "version": "1.0.0",
-  "main": "index.htmls",
+  "main": "index.html",
+  "author": "Gabriel Bagalho <gabriel.bagalho@gmail.com>",
   "license": "MIT"
 }
